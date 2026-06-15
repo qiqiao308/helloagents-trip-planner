@@ -499,9 +499,6 @@ npm run preview            # 预览生产构建
 
 ---
 
-
----
-
 <p align="center">
   <sub>Built with ❤️ using LangChain · FastAPI · Vue 3 · 高德地图</sub>
 </p>
