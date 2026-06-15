@@ -499,9 +499,6 @@ npm run preview            # 预览生产构建
 
 ---
 
-## 开源协议
-
-MIT License — 详见项目根目录。
 
 ---
 
